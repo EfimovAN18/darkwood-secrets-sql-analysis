@@ -119,6 +119,3 @@ darkwood-secrets-sql-analysis/
 - `sql/darkwood_secrets_analysis.sql` — SQL-запросы исследования.
 - `docs/conclusions.md` — подробные аналитические выводы и рекомендации.
 
-## Автор
-
-Алексей Ефимов
