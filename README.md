@@ -220,4 +220,9 @@ darkwood-secrets-sql-analysis/
 │   └── darkwood_secrets_analysis.sql
 └── docs/
     └── conclusions.md
+    
+## Файлы проекта
+
+- **[Открыть SQL-запросы](sql/darkwood_secrets_analysis.sql)** — исследовательский анализ, анализ покупок и ad hoc-задача.
+- **[Открыть аналитические выводы](docs/conclusions.md)** — подробные результаты, интерпретация и рекомендации.
 
